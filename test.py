@@ -4,4 +4,3 @@
 
 # with open("data.txt", "r") as fichier:
 # 	print (fichier.read())
-
